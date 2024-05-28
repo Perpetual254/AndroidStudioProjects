@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">perpetual</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_project">ProjectActivity</string>
+    <string name="title_activity_project2">ProjectActivity2</string>
+</resources>
